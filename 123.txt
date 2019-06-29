@@ -1,0 +1,1 @@
+C:\Progra~2\Java\jdk1.8.0_201\bin\javaw.exe C:\Users\vsarapas\Downloads\webstart_20190514131554.jnlp
